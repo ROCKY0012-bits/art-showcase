@@ -13,7 +13,7 @@ This is a personal portfolio website to showcase my artwork and paintings. Built
 
 ## 🔗 Live Demo
 
-👉 [View Site on Netlify](https://your-site-name.netlify.app)  
+👉 [View Site on Netlify]([https://your-site-name.netlify.app](https://painting-portfolio.netlify.app/))  
 👉 [GitHub Repository]([https://github.com/your-username/your-repo-name](https://github.com/ROCKY0012-bits/art-showcase))
 
 ## 🛠️ Tech Stack
